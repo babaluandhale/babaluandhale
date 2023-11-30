@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Babalu Andhale
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning TYBSC computer science
+- 🌱 I’m currently working at VortexWeb technology
 - 💞️ I’m looking to collaborate on web developer
 - 📫 How to reach me ...
 
